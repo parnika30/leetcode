@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/parnika30/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/parnika30/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/parnika30/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Tree
 |  |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/parnika30/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/parnika30/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parnika30/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
