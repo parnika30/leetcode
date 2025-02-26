@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/parnika30/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/parnika30/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/parnika30/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/parnika30/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/parnika30/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/parnika30/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Tree
 |  |
