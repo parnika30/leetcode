@@ -14,14 +14,14 @@
  * }
  */
 class Solution {
-    int count = 0 ;
+    int count = 0 ; //for nodes visited
     public int kthSmallest(TreeNode root, int k) {
         TreeNode res = findSmallest(root,k);
         if(res == null) return 0;
         return res.val; 
     }
 
-        private TreeNode findSmallest(TreeNode root, int k){
+        private TreeNode findSmallest(TreeNode root, int k){ ///in-order traversal
             if(root == null){
                 return null;
             }
@@ -30,7 +30,7 @@ class Solution {
                 return left;  // If found in left subtree
             }
             count ++; 
-            if(count == k) return root;
-            return findSmallest(root.right, k);
+            if(count == k) return root;   //If not found, we check the current node to see if it’s the kth smallest.
+            return findSmallest(root.right, k); //f still not found, we return the right subtree
         }
 }
