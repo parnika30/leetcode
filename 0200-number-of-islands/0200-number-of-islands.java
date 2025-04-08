@@ -10,6 +10,7 @@ class Solution {
             int r = curr[0];
             int c = curr[1];    
 
+            //non-diagonal connections
             int[] dRow = {-1, 1, 0, 0}; // Up, Down
             int[] dCol = {0, 0, -1, 1}; // Left, Right
 
@@ -17,7 +18,7 @@ class Solution {
                     int nr = r + dRow[i];
                     int nc = c + dCol[i];
 
-                    if(nr>=0 && nc>=0 && nr< n && nc<m 
+                    if(nr>=0 && nc>=0 && nr< n && nc<m //validity
                     && grid[nr][nc] == '1' //land
                     && vis[nr][nc] == 0){ // not visited
                         vis[nr][nc] = 1;
