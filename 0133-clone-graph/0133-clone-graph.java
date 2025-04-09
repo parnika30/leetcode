@@ -18,25 +18,55 @@ class Node {
 }
 */
 
+// class Solution {
+//     private Node dfsClone(Node node, HashMap<Node,Node> oldToNew){
+//         Node newNode = new Node(node.val);
+//         oldToNew.put(node, newNode);
+
+//         //traverse through the neighbors
+//         for(Node neighbors : node.neighbors){
+//             if(!oldToNew.containsKey(neighbors)){
+//                 //neighbors not cloned
+//                 newNode.neighbors.add(dfsClone(neighbors,oldToNew));
+//             }else{ //neighbors cloned
+//                 newNode.neighbors.add(oldToNew.get(neighbors));
+//             }
+//         }
+//         return newNode;
+//     }
+//     public Node cloneGraph(Node node) {
+//         if(node==null) return null; //neighbours can't be null once recursion starts
+//         HashMap<Node,Node> oldToNew = new HashMap<>(); //mapping is old -> new
+//         return dfsClone(node,oldToNew);
+//     }
+// }
+
 class Solution {
-    private Node dfsClone(Node node, HashMap<Node,Node> oldToNew){
+    private Node bfsClone(Node node, HashMap<Node,Node> oldToNew){
         Node newNode = new Node(node.val);
-        oldToNew.put(node, newNode);
         
-        //traverse through the neighbors
-        for(Node neighbors : node.neighbors){
-            if(!oldToNew.containsKey(neighbors)){
-                //neighbors not cloned
-                newNode.neighbors.add(dfsClone(neighbors,oldToNew));
-            }else{ //neighbors cloned
-                newNode.neighbors.add(oldToNew.get(neighbors));
+        Queue<Node> q = new LinkedList<>();
+        q.add(node);
+        oldToNew.put(node, newNode);
+
+        while(!q.isEmpty()){
+            Node current = q.poll();
+            //traverse through the neighbors
+            for(Node neighbors : current.neighbors){
+                if(!oldToNew.containsKey(neighbors)){
+                    //neighbors not cloned
+                    newNode.neighbors.add(bfsClone(neighbors,oldToNew));
+                }else{ //neighbors cloned
+                    newNode.neighbors.add(oldToNew.get(neighbors));
+                }
             }
         }
+        
         return newNode;
     }
     public Node cloneGraph(Node node) {
         if(node==null) return null; //neighbours can't be null once recursion starts
         HashMap<Node,Node> oldToNew = new HashMap<>(); //mapping is old -> new
-        return dfsClone(node,oldToNew);
+        return bfsClone(node,oldToNew);
     }
 }
