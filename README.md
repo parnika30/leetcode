@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/parnika30/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/parnika30/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Array
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parnika30/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parnika30/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/parnika30/leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/parnika30/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
