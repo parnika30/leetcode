@@ -1,4 +1,5 @@
 class Solution {
+    //using kahn's algo - topo bfs
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
     
@@ -42,7 +43,7 @@ class Solution {
         //topo sort will always have same number of elements, 
         //so if the number of ele are less than or greater than numCourses,
         //it has a cycle, i.e. it can be arranged in more than 1 ways
-        if(topo.size()<numCourses ) return false;
-        else return true;
+        if(topo.size()==numCourses) return true;
+        else return false;
     }
 }
