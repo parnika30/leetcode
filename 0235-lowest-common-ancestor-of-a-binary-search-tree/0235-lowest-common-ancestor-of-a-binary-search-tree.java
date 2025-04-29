@@ -8,17 +8,15 @@
  * }
  */
 
+
+//watch striver video 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-
-        if(root == null || root == p || root == q) return root;
-
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
-
-        if(left == null){return right;} //left khaali to upar right return hoga
-        else if(right == null){return left;} //right khaali to upar left return hoga
-        else {return root;} //both left and right are non null, we got our lca at this point
-        
+        if(root == null) return root;
+        if(root.val > p.val && root.val > q.val){ //both nodes lie on left
+            return lowestCommonAncestor(root.left, p, q);
+        }else if(root.val < p.val && root.val < q.val){ //both nodes lie on right
+            return lowestCommonAncestor(root.right, p, q);
+        }return root; //intersection point where it splits.   
     }
 }
