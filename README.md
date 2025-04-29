@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/parnika30/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/parnika30/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Stack
 |  |
 | ------- |
