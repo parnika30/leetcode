@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnika30/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/parnika30/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/parnika30/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parnika30/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parnika30/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/parnika30/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/parnika30/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [1019-squares-of-a-sorted-array](https://github.com/parnika30/leetcode/tree/master/1019-squares-of-a-sorted-array) |
