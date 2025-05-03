@@ -27,7 +27,6 @@ class Solution {
         }
             
         ArrayList<Integer> topo = new ArrayList<>();
-        int i = 0;
         while(!q.isEmpty()){
             int node = q.peek(); //first ele whose indeg is 0
             q.remove();
