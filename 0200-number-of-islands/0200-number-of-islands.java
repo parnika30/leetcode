@@ -1,49 +1,44 @@
 class Solution {
-
-    private void bfs(int row, int col, int vis[][], char[][] grid, int n,int m){
-        vis[row][col] =1;
+    private void bfs(int[][]vis, char[][] grid, int mainRow, int mainCol, int gr, int gc){
+        vis[gr][gc] = 1;
         Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{row, col});
+        q.add(new int[] {gr,gc});
 
-        while (!q.isEmpty()) {
+        while(!q.isEmpty()){
             int[] curr = q.poll();
             int r = curr[0];
-            int c = curr[1];    
+            int c = curr[1]; 
 
-            //non-diagonal connections
-            int[] dRow = {-1, 1, 0, 0}; // Up, Down
-            int[] dCol = {0, 0, -1, 1}; // Left, Right
+            int[] delR = {-1,1,0,0};
+            int[] delC = {0,0,-1,1};
 
-                for (int i = 0; i < 4; i++) {
-                    int nr = r + dRow[i];
-                    int nc = c + dCol[i];
+            for(int i = 0;i<4;i++){
+                int nr = r + delR[i];
+                int nc = c + delC[i];
 
-                    if(nr>=0 && nc>=0 && nr< n && nc<m //validity
-                    && grid[nr][nc] == '1' //land
-                    && vis[nr][nc] == 0){ // not visited
-                        vis[nr][nc] = 1;
-                        q.add(new int[]{nr, nc});
-                    } 
+                if(nr>=0 && nc>=0 && nr<mainRow && nc<mainCol && vis[nr][nc] == 0 && grid[nr][nc] == '1'){
+                    vis[nr][nc] = 1;
+                    q.add(new int[] {nr,nc});
                 }
+            }
         }
     }
 
-
-    //to find no of islands
     public int numIslands(char[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        int vis[][] = new int[n][m];
+        int[][]vis = new int[n][m];
         int count = 0;
-        for(int row =0; row<n;row++){
-            for(int col = 0; col<m;col++){
-                if(vis[row][col] == 0 && grid[row][col]== '1') { //grid is land as well
+
+        for (int i =0; i<n;i++){
+            for (int j =0; j<m;j++){
+                if(vis[i][j] == 0 && grid[i][j] == '1'){ //grid is land
                     count++;
-                    bfs(row,col, vis,grid, n,m);
-                }
-                
+                    bfs(vis,grid,n,m,i,j);
+                } 
             }
         }
+
         return count;
     }
 }
