@@ -22,3 +22,8 @@ class Solution {
         }
     }
 }
+
+//You start from the end of both arrays (nums1 and nums2).
+// You compare the largest unmerged elements and fill nums1 from the back.
+// If anything’s left in nums2, you copy it to the beginning of nums1.
+// You handle all merging in-place, no extra space needed.
