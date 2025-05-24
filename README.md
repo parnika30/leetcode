@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/parnika30/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/parnika30/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parnika30/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika30/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/parnika30/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/parnika30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parnika30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika30/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/parnika30/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
