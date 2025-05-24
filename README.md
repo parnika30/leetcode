@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/parnika30/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/parnika30/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/parnika30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parnika30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parnika30/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parnika30/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/parnika30/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/parnika30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/parnika30/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
