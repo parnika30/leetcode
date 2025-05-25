@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parnika30/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/parnika30/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/parnika30/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/parnika30/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parnika30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnika30/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/parnika30/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/parnika30/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parnika30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/parnika30/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/parnika30/leetcode/tree/master/0133-clone-graph) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnika30/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/parnika30/leetcode/tree/master/0076-minimum-window-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/parnika30/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/parnika30/leetcode/tree/master/3483-alternating-groups-ii) |
