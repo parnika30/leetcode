@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parnika30/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/parnika30/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/parnika30/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/parnika30/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/parnika30/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parnika30/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/parnika30/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/parnika30/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnika30/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/parnika30/leetcode/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/parnika30/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/parnika30/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
