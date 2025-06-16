@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/parnika30/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/parnika30/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/parnika30/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/parnika30/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/parnika30/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2561-number-of-distinct-averages](https://github.com/parnika30/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parnika30/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/parnika30/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
+| [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parnika30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/parnika30/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/parnika30/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/parnika30/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parnika30/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
