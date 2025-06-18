@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/parnika30/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/parnika30/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3893-generate-tag-for-video-caption](https://github.com/parnika30/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/parnika30/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/parnika30/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/parnika30/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3893-generate-tag-for-video-caption](https://github.com/parnika30/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Memoization
 |  |
 | ------- |
