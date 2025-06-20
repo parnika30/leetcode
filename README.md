@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/parnika30/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parnika30/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/parnika30/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3822-fill-a-special-grid](https://github.com/parnika30/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3885-count-special-triplets](https://github.com/parnika30/leetcode/tree/master/3885-count-special-triplets) |
 ## Tree
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/parnika30/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/parnika30/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/parnika30/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3822-fill-a-special-grid](https://github.com/parnika30/leetcode/tree/master/3822-fill-a-special-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parnika30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
+| [3822-fill-a-special-grid](https://github.com/parnika30/leetcode/tree/master/3822-fill-a-special-grid) |
 ## String Matching
 |  |
 | ------- |
