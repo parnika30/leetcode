@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/parnika30/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/parnika30/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/parnika30/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/parnika30/leetcode/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/parnika30/leetcode/tree/master/1036-rotting-oranges) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/parnika30/leetcode/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/parnika30/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/parnika30/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/parnika30/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/parnika30/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/parnika30/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/parnika30/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
