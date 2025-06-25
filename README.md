@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/parnika30/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/parnika30/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/parnika30/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/parnika30/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/parnika30/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/parnika30/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/parnika30/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/parnika30/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Prefix Sum
 |  |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/parnika30/leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parnika30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Enumeration
 |  |
 | ------- |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parnika30/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/parnika30/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parnika30/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -573,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/parnika30/leetcode/tree/master/0139-word-break) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
