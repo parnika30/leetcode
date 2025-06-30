@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/parnika30/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/parnika30/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/parnika30/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/parnika30/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/parnika30/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/parnika30/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/parnika30/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/parnika30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/parnika30/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [2605-count-anagrams](https://github.com/parnika30/leetcode/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/parnika30/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3885-count-special-triplets](https://github.com/parnika30/leetcode/tree/master/3885-count-special-triplets) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika30/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/parnika30/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
 ## Linked List
 |  |
@@ -585,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parnika30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/parnika30/leetcode/tree/master/1014-k-closest-points-to-origin) |
