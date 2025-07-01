@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parnika30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/parnika30/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/parnika30/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/parnika30/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/parnika30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/parnika30/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/parnika30/leetcode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/parnika30/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/parnika30/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/parnika30/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/parnika30/leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/parnika30/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parnika30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/parnika30/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parnika30/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/parnika30/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/parnika30/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
