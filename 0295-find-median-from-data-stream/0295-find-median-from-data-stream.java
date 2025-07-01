@@ -1,6 +1,6 @@
 class MedianFinder {
-        PriorityQueue<Integer> minheap;
-        PriorityQueue<Integer> maxheap;
+        PriorityQueue<Integer> minheap; //Larger half (min on top) 
+        PriorityQueue<Integer> maxheap; //Smaller half (max on top)
 
     public MedianFinder() {
         minheap = new PriorityQueue<>();
@@ -20,7 +20,8 @@ class MedianFinder {
         if(minheap.size() == maxheap.size()){
             return (minheap.peek() + maxheap.peek())/2.0;
         }else{
-            return maxheap.peek();  // maxHeap has the extra element
+            return maxheap.peek();  
+            //If the total number of elements is odd, maxHeap has one extra element.
         }
     }
 }
