@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/parnika30/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/parnika30/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/parnika30/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/parnika30/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/parnika30/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnika30/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
+| [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/parnika30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/parnika30/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parnika30/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/parnika30/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnika30/leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
 ## Number Theory
 |  |
 | ------- |
