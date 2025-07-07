@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/parnika30/leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parnika30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/parnika30/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/parnika30/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/parnika30/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/parnika30/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/parnika30/leetcode/tree/master/0567-permutation-in-string) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parnika30/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/parnika30/leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/parnika30/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/parnika30/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/parnika30/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/parnika30/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/parnika30/leetcode/tree/master/1013-fibonacci-number) |
 ## Topological Sort
 |  |
