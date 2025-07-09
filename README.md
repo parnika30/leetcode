@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parnika30/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parnika30/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parnika30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/parnika30/leetcode/tree/master/0310-minimum-height-trees) |
 | [0513-find-bottom-left-tree-value](https://github.com/parnika30/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/parnika30/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/parnika30/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/parnika30/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/parnika30/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parnika30/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/parnika30/leetcode/tree/master/0310-minimum-height-trees) |
 | [0513-find-bottom-left-tree-value](https://github.com/parnika30/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/parnika30/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/parnika30/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/parnika30/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/parnika30/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parnika30/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/parnika30/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/parnika30/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/parnika30/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/parnika30/leetcode/tree/master/0310-minimum-height-trees) |
 ## Greedy
 |  |
 | ------- |
