@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parnika30/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parnika30/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/parnika30/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parnika30/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parnika30/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/parnika30/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/parnika30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/parnika30/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/parnika30/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/parnika30/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/parnika30/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/parnika30/leetcode/tree/master/0392-is-subsequence) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/parnika30/leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/parnika30/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/parnika30/leetcode/tree/master/1013-fibonacci-number) |
 ## Topological Sort
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/parnika30/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/parnika30/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/parnika30/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/parnika30/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/parnika30/leetcode/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
