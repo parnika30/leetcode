@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/parnika30/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/parnika30/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/parnika30/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/parnika30/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/parnika30/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parnika30/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Math
 |  |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/parnika30/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/parnika30/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
 ## Design
