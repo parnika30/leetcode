@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/parnika30/leetcode/tree/master/1916-find-center-of-star-graph) |
 ## Design
 |  |
 | ------- |
