@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parnika30/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/parnika30/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/parnika30/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parnika30/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/parnika30/leetcode/tree/master/0202-happy-number) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/parnika30/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/parnika30/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/parnika30/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/parnika30/leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/parnika30/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/parnika30/leetcode/tree/master/1013-fibonacci-number) |
