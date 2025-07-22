@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parnika30/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/parnika30/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/parnika30/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/parnika30/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/parnika30/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/parnika30/leetcode/tree/master/0494-target-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/parnika30/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/parnika30/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/parnika30/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/parnika30/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/parnika30/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/parnika30/leetcode/tree/master/0056-merge-intervals) |
