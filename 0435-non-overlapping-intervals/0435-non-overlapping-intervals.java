@@ -8,12 +8,11 @@ class Solution {
         for(int i=1; i<n;i++){
             int curr = intervals[i][0];
             if(curr<last){
-                count++;
+                count++; //overlap
             }else{
-                last = intervals[i][1];
+                last = intervals[i][1]; //no overlap -> update last. 
             }
         }
-
 
         return count;
     }
