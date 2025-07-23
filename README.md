@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parnika30/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parnika30/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/parnika30/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/parnika30/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parnika30/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika30/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/parnika30/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/parnika30/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/parnika30/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/parnika30/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parnika30/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/parnika30/leetcode/tree/master/0202-happy-number) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/parnika30/leetcode/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/parnika30/leetcode/tree/master/2605-count-anagrams) |
 ## Concurrency
 |  |
