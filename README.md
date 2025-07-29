@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/parnika30/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/parnika30/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/parnika30/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/parnika30/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/parnika30/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/parnika30/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/parnika30/leetcode/tree/master/0494-target-sum) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/parnika30/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parnika30/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/parnika30/leetcode/tree/master/1127-last-stone-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/parnika30/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/parnika30/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/parnika30/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parnika30/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/parnika30/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/parnika30/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/parnika30/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
 |  |
