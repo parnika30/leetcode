@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/parnika30/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/parnika30/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
 | [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/parnika30/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/parnika30/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/parnika30/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/parnika30/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/parnika30/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/parnika30/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Enumeration
 |  |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/parnika30/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/parnika30/leetcode/tree/master/0355-design-twitter) |
+| [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
