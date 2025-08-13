@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parnika30/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/parnika30/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/parnika30/leetcode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/parnika30/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parnika30/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/parnika30/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parnika30/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parnika30/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parnika30/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/parnika30/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parnika30/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/parnika30/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
