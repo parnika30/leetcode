@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/parnika30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/parnika30/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/parnika30/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/parnika30/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/parnika30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/parnika30/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/parnika30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/parnika30/leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/parnika30/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/parnika30/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parnika30/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/parnika30/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/parnika30/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/parnika30/leetcode/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/parnika30/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parnika30/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parnika30/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/parnika30/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/parnika30/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/parnika30/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Math
 |  |
