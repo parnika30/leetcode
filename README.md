@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/parnika30/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/parnika30/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/parnika30/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1659-get-the-maximum-score](https://github.com/parnika30/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/parnika30/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/parnika30/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parnika30/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/parnika30/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1659-get-the-maximum-score](https://github.com/parnika30/leetcode/tree/master/1659-get-the-maximum-score) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/parnika30/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/parnika30/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/parnika30/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/parnika30/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/parnika30/leetcode/tree/master/1028-interval-list-intersections) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/parnika30/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1659-get-the-maximum-score](https://github.com/parnika30/leetcode/tree/master/1659-get-the-maximum-score) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parnika30/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parnika30/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/parnika30/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/parnika30/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
+| [1659-get-the-maximum-score](https://github.com/parnika30/leetcode/tree/master/1659-get-the-maximum-score) |
 ## Linked List
 |  |
 | ------- |
