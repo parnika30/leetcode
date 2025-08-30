@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parnika30/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/parnika30/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/parnika30/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-count-covered-buildings](https://github.com/parnika30/leetcode/tree/master/3819-count-covered-buildings) |
 | [3822-fill-a-special-grid](https://github.com/parnika30/leetcode/tree/master/3822-fill-a-special-grid) |
 | [3885-count-special-triplets](https://github.com/parnika30/leetcode/tree/master/3885-count-special-triplets) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/parnika30/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/parnika30/leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/parnika30/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/parnika30/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/parnika30/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/parnika30/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/parnika30/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Memoization
 |  |
@@ -779,4 +782,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-print-foobar-alternately](https://github.com/parnika30/leetcode/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/parnika30/leetcode/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/parnika30/leetcode/tree/master/1216-print-zero-even-odd) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
