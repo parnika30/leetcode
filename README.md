@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/parnika30/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/parnika30/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parnika30/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/parnika30/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/parnika30/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parnika30/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/parnika30/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/parnika30/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0912-random-pick-with-weight](https://github.com/parnika30/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/parnika30/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/parnika30/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/parnika30/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/parnika30/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/parnika30/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/parnika30/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/parnika30/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/parnika30/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parnika30/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/parnika30/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parnika30/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0912-random-pick-with-weight](https://github.com/parnika30/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/parnika30/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/parnika30/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/parnika30/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/parnika30/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/parnika30/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0912-random-pick-with-weight](https://github.com/parnika30/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Combinatorics
 |  |
 | ------- |
