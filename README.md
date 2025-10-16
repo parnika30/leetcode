@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/parnika30/leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parnika30/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/parnika30/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/parnika30/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3483-alternating-groups-ii](https://github.com/parnika30/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parnika30/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/parnika30/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/parnika30/leetcode/tree/master/2605-count-anagrams) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parnika30/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/parnika30/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/parnika30/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parnika30/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3819-count-covered-buildings](https://github.com/parnika30/leetcode/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/parnika30/leetcode/tree/master/3885-count-special-triplets) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
 | [2605-count-anagrams](https://github.com/parnika30/leetcode/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/parnika30/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/parnika30/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3885-count-special-triplets](https://github.com/parnika30/leetcode/tree/master/3885-count-special-triplets) |
 ## Graph
 |  |
