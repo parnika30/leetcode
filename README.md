@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/parnika30/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/parnika30/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/parnika30/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/parnika30/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/parnika30/leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/parnika30/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/parnika30/leetcode/tree/master/0567-permutation-in-string) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/parnika30/leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/parnika30/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/parnika30/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0460-lfu-cache](https://github.com/parnika30/leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/parnika30/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
@@ -761,12 +763,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/parnika30/leetcode/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/parnika30/leetcode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/parnika30/leetcode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/parnika30/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/parnika30/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/parnika30/leetcode/tree/master/0460-lfu-cache) |
 ## Line Sweep
 |  |
 | ------- |
