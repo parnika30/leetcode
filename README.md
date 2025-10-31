@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/parnika30/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/parnika30/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/parnika30/leetcode/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/parnika30/leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/parnika30/leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/parnika30/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/parnika30/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/parnika30/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/parnika30/leetcode/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/parnika30/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Enumeration
 |  |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/parnika30/leetcode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/parnika30/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/parnika30/leetcode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/parnika30/leetcode/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -894,4 +897,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/parnika30/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/parnika30/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
