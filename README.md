@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
 | [0851-goat-latin](https://github.com/parnika30/leetcode/tree/master/0851-goat-latin) |
 | [1023-time-based-key-value-store](https://github.com/parnika30/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/parnika30/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parnika30/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/parnika30/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/parnika30/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/parnika30/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parnika30/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/parnika30/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/parnika30/leetcode/tree/master/1127-last-stone-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/parnika30/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/parnika30/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/parnika30/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/parnika30/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/parnika30/leetcode/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/parnika30/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/parnika30/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/parnika30/leetcode/tree/master/1873-longest-nice-substring) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/parnika30/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/parnika30/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/parnika30/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/parnika30/leetcode/tree/master/0778-reorganize-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/parnika30/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2605-count-anagrams](https://github.com/parnika30/leetcode/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/parnika30/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/parnika30/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
