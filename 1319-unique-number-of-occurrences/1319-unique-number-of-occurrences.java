@@ -11,7 +11,8 @@ class Solution {
             set.add(freq);
         }
 
-        if(set.size()<map.size()) return false;
-        return true;
+        // if(set.size()<map.size()) return false;
+        // return true;
+        return map.size() == set.size();
     }
 }
