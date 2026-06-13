@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/parnika30/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/parnika30/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2605-count-anagrams](https://github.com/parnika30/leetcode/tree/master/2605-count-anagrams) |
+| [3838-weighted-word-mapping](https://github.com/parnika30/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3893-generate-tag-for-video-caption](https://github.com/parnika30/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-count-covered-buildings](https://github.com/parnika30/leetcode/tree/master/3819-count-covered-buildings) |
 | [3822-fill-a-special-grid](https://github.com/parnika30/leetcode/tree/master/3822-fill-a-special-grid) |
+| [3838-weighted-word-mapping](https://github.com/parnika30/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3885-count-special-triplets](https://github.com/parnika30/leetcode/tree/master/3885-count-special-triplets) |
 ## Tree
 |  |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/parnika30/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/parnika30/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3790-fruits-into-baskets-ii](https://github.com/parnika30/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/parnika30/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3893-generate-tag-for-video-caption](https://github.com/parnika30/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Memoization
 |  |
