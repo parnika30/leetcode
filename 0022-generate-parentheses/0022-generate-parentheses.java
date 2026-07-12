@@ -1,25 +1,28 @@
 class Solution {
-    private void backtrack(int open, int close, int n, StringBuilder stack, List<String> res){
-        if(open == n && open== close){
-            res.add(stack.toString());
+    private void backtrack(int open, int close, int n, StringBuilder s, List<String> res){
+        //base case:
+        if(open == n && open == close){ // all open brackets are used and created 1 valid combo
+            res.add(s.toString());
             return;
         }
 
-        if(open<n){
-            stack.append('(');
-            backtrack(open+1,close,n,stack,res);
-            stack.deleteCharAt(stack.length()-1);
+        if(open < n){
+            s.append('(');
+            backtrack(open+1, close, n, s, res);
+            s.deleteCharAt(s.length()-1);
         }
-        if(close<open){
-            stack.append(')');
-            backtrack(open,close+1,n,stack,res);
-            stack.deleteCharAt(stack.length()-1);
+
+        if(close < open){
+            s.append(')');
+            backtrack(open, close+1, n, s, res);
+            s.deleteCharAt(s.length()-1);
         }
     }
+
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
-        StringBuilder stack = new StringBuilder();
-        backtrack(0,0,n,stack,res);
+        StringBuilder s = new StringBuilder();
+        backtrack(0,0,n,s,res);
         return res;
     }
 }
